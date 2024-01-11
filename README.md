@@ -14,8 +14,14 @@ Visualization of Earthquakes that occured during the last 7 days
 - Map is created using Leaflets
 - The data markers reflect the magnitude of the earthquake by their size and the depth of the earthquake by color. 
 - The legend gives information on the depth on a Color scale
+Basic Map
 
   ![Basic Map](https://github.com/supvadakkeveetil/leaflet-challenge/assets/144635564/838b0da8-ef65-4522-96af-d4f4bb2b85b7)
+
+Map with Click on marker for Tooltip with Magnitude Popup 
+
+![Basic Map_ popup](https://github.com/supvadakkeveetil/leaflet-challenge/assets/144635564/bcb71e27-32bb-4d4f-b90f-5ab8fb3a87cc)
+
 
 ### Leaflet Map Deployment
 [Leaflet Map on Github
