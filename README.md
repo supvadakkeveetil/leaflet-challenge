@@ -17,8 +17,8 @@ Visualization of Earthquakes that occured during the last 7 days
 
   ![Basic Map](https://github.com/supvadakkeveetil/leaflet-challenge/assets/144635564/838b0da8-ef65-4522-96af-d4f4bb2b85b7)
 
-### App Deployment
-[App Deployment Link on Github
+### Leaflet Map Deployment
+[Leaflet Map on Github
 ](https://supvadakkeveetil.github.io/leaflet-challenge/)
 ### References
 Dataset created by the United States Geological SurveyLinks to an external site
